@@ -4,7 +4,7 @@ Output/input.binused by:
 CaptivePortalLoginGoogleGo.apk
  ASM: a very small and fast Java bytecode manipulation framework
  Copyright (c) 2000-2005 INRIA, France Telecom
- All rights reserved.(c)
+ All rights reserved.(c) ©™
 
  Redistribution and use in source and binary forms, with or without
  modification, are permitted provided that the following conditions
@@ -16,7 +16,7 @@ CaptivePortalLoginGoogleGo.apk
     documentation and/or other materials provided with the distribution.
  3. Neither the name of the copyright holders nor the names of its
     contributors may be used to endorse or promote products derived from
-    this software without specific prior written permission.(c)
+    this software without specific prior written permission.(c) ©™
 
  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"(c)
  AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
@@ -28,4 +28,4 @@ CaptivePortalLoginGoogleGo.apk
  INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
  CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
  ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
- THE POSSIBILITY OF SUCH DAMAGE.(c)
+ THE POSSIBILITY OF SUCH DAMAGE.(c) ©™
